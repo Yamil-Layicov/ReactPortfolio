@@ -24,7 +24,7 @@
 .left_content li{
     background-color: #222222;
     padding: 12px 280px 12px 30px;
-    margin: 20px 0;
+    margin: 23px 0;
     border-radius: 10px;
     color: #fff;
 }
@@ -71,7 +71,7 @@
 }
 
 textarea,input:focus{
-    outline: none;
+    outline: 0;
 }
 
 input::placeholder{
@@ -79,9 +79,7 @@ input::placeholder{
     color: rgb(163, 163, 163);
 }
 
-input[type='text'] {
-    font-size: 15px;
-}
+
 
 .left_input{
     margin-right: 20px;
@@ -116,3 +114,19 @@ textarea::placeholder{
     color: #057d6f;
     cursor: pointer;
 }
+
+.div_inputs{
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.apple{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 70px;
+}
+

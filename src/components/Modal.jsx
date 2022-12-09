@@ -6,8 +6,7 @@ import {MdOutlinePlace} from 'react-icons/md'
 import {FaMobileAlt} from 'react-icons/fa'
 import {AiOutlineMail} from 'react-icons/ai'
 import {BsFillCaretRightFill} from 'react-icons/bs'
-import CV from '../components/CV/YamilCV.pdf'
-
+import CV from './CV/Yamil.CV.pdf'
 
 const Modal = forwardRef((props,ref) => {
 
