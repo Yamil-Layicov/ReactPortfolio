@@ -100,7 +100,7 @@ const Contact = () => {
                 </span>
                 <span className={style.text}>
                   <a
-                    href="https://www.linkedin.com/in/yamil-layicov-090945241/"
+                    href="https://www.linkedin.com/in/yamil-lay%C4%B1cov-59aab5264/"
                     target="_blank"
                   >
                     LinkedIn/Yamil
