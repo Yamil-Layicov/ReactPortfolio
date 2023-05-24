@@ -38,6 +38,7 @@ const Resume = () => {
     } 
   }, [htmlFilled]);
 
+  
   return (
     <div className='root'>
       <div className="container">
@@ -206,14 +207,14 @@ const Resume = () => {
               
             </div>
           </div>
+          
       </motion.div>
 
       <div className="side">
           <h2 className='quaf-header-text'>Qualification</h2>
           <div className="qualif-tabs">
 
-                  <div className={toggleState === 1 ? 'quaf-button quaf-active' : 'quaf-button'}
-                  onClick={()=>toggleTab(1)}
+                  <div className={toggleState === 1 ? 'quaf-button quaf-active' : 'quaf-button'} onClick={()=>toggleTab(1)}
                   >
                       <span  className='qualif-icon cap'><HiAcademicCap/></span><span className='qualif-icon-text'>Education</span>
                   </div>
@@ -225,6 +226,7 @@ const Resume = () => {
 
           </div>
       </div>
+      
     </div>
   )
 }

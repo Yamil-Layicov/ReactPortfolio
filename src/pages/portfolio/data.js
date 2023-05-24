@@ -1,8 +1,8 @@
-export const dataDigitalBestSeller = [
+export const imgsData = [
     {
       id: 1,
       linkImg:
-        'https://freethemeshub.com/wp-content/uploads/2021/08/Bacola-theme.jpg',
+        'https://i.ytimg.com/vi/pncbYNS1XJs/maxresdefault.jpg',
     },
     {
       id: 2,
@@ -12,17 +12,17 @@ export const dataDigitalBestSeller = [
     {
       id: 3,
       linkImg:
-        'https://img.themesinfo.com/i/1/123/bacola-child-wordpress-theme-rgd2i-m.jpg',
+        'https://i.ytimg.com/vi/pncbYNS1XJs/maxresdefault.jpg',
     },
     {
       id: 4,
       linkImg:
-        'https://freethemeshub.com/wp-content/uploads/2021/08/Bacola-theme.jpg',
+        'https://i.ytimg.com/vi/pncbYNS1XJs/maxresdefault.jpg',
     },
     {
       id: 5,
       linkImg:
-        'https://freethemeshub.com/wp-content/uploads/2021/08/Bacola-theme.jpg',
+        'https://i.ytimg.com/vi/pncbYNS1XJs/maxresdefault.jpg',
     },
     {
       id: 6,
@@ -32,7 +32,7 @@ export const dataDigitalBestSeller = [
     {
       id: 7,
       linkImg:
-        'https://img.themesinfo.com/i/1/123/bacola-child-wordpress-theme-rgd2i-m.jpg',
+        'https://i.ytimg.com/vi/pncbYNS1XJs/maxresdefault.jpg',
     },
     {
       id: 8,
